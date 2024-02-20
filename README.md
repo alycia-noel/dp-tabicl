@@ -1,7 +1,8 @@
 # DP-TabICL
-This repository contains the code to run the experiments for _DP-TabICL: In-Context Learning with Differentially Private Tabular Data_ published on ArXiV and submitted to the COLM conferece. 
 
 ![dp-tabicl](https://github.com/alycia-noel/dp-tabicl/assets/71036958/e0141c44-f0ea-42aa-81e9-36ca7b47eb41)
+
+This repository contains the code to run the experiments for _DP-TabICL: In-Context Learning with Differentially Private Tabular Data_ published on ArXiV and submitted to the COLM conferece. 
 
 ### Requirements 
 The code in this repository requires the Llama-2 model from Meta to be installed. Follow the instructions [here](https://github.com/facebookresearch/llama) to install the wanted Llama model. All code has been tested with both the Llama-2-7B and Llama-2-13B models. 
